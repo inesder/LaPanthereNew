@@ -705,7 +705,7 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 22px!important;
     line-height: 1.4em;
 }
 
@@ -729,6 +729,21 @@ h1 {
 h4 {
     color: #333333!important;
 }
+
+.text-center{
+    font-size: 15px;
+}
+
+
+.feedback {
+    font-size: 18px;
+}
+
+.quote {
+font-style: italic;
+}
+
+
 
 .icons {
     margin-bottom: 14px;
