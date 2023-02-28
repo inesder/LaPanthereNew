@@ -292,6 +292,16 @@ a:hover {
     z-index: 1;
 }
 
+.fix-nav {
+    position: fixed;
+    z-index: 1;
+    border-bottom: solid 1px black;
+}
+
+.nav-item:hover {
+    color:#F3976C!important;
+}
+
 .navbar-brand {
     height: auto;
     padding: 3px 15px;
