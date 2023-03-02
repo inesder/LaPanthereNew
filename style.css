@@ -308,6 +308,10 @@ a:hover {
     color:#F3976C!important;
 }
 
+.contact-banner{
+    padding: 130px 0 50px 0;
+}
+
 .collapse.in{
     display: block;
 }
@@ -753,7 +757,7 @@ h4 {
 }
 
 .text-center{
-    font-size: 15px;
+    font-size: 17px;
 }
 
 
