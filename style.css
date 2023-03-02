@@ -287,6 +287,12 @@ a:hover {
     font-size: 32px;
 }
 
+#bloc-6 h1 {
+    font-size: 32px;
+}
+
+
+
 .navbar {
     margin-bottom: 0;
     z-index: 1;
@@ -661,7 +667,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #212121!important;
+    color: #333333!important;
 }
 
 .container {
@@ -733,9 +739,6 @@ h3 {
     box-shadow: 0px 0px 0px #000000;
 }
 
-h1 {
-    color: #333333!important;
-}
 
 h4 {
     color: #333333!important;
