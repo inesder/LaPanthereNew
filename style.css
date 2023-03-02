@@ -308,6 +308,10 @@ a:hover {
     color:#F3976C!important;
 }
 
+.collapse.in{
+    display: block;
+}
+
 .navbar-brand {
     height: auto;
     padding: 3px 15px;
@@ -718,7 +722,11 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
 }
+
 
 h2 {
     font-size: 22px!important;
@@ -993,6 +1001,8 @@ font-style: italic;
         -webkit-box-shadow: none;
         box-shadow: none;
     }
+
+   }
     .navbar-brand img {
         max-height: 40px;
         width: auto;
@@ -1058,7 +1068,10 @@ font-style: italic;
         width: 180px;
         height: 320px;
     }
-}
+    .home-banner{
+        padding-top: 90px;
+    }
+
 
 @media (max-width: 400px) {
     .bloc {
